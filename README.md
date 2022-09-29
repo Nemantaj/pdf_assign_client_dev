@@ -1,5 +1,2 @@
-# React infinite scrolling
-
-username :- generic
-password :- 12345678
+# assign-client-dev
 
